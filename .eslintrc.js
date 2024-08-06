@@ -11,12 +11,7 @@ module.exports = {
   plugins: ['simple-import-sort', 'prettier', '@typescript-eslint'],
   rules: {
     "no-console": "off",
-    'prettier/prettier': [
-      'error',
-      {
-        endOfLine: 'auto',
-      },
-    ],
+    'prettier/prettier': "off",
     'sort-imports': 'off',
     'tailwindcss/no-custom-classname': 'off',
     '@typescript-eslint/no-var-requires': 'off',
