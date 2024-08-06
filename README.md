@@ -14,13 +14,6 @@ Download the project to your computer and install needed packages with command:
 $ npm install
 ```
 
-Then create .env file:
-
-```bash
-SITE_URL='https://example.com' ## Required to generate sitemap by next-sitemap
-RESEND_API_KEY='your_resend_api_key' ## Required to send email by resend
-```
-
 Then start the project on the local server with the command:
 
 ```bash
@@ -36,6 +29,5 @@ and open http://localhost:3000 to see this app.
 - Tailwind CSS
 - Framer-motion
 - React-hook-form
-- Resend
 
 If you encounter a problem, write to this e-mail address: [jairock7776@gmail.com](mailto:jairock7776@gmail.com)
