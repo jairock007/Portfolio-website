@@ -20,7 +20,7 @@ Then start the project on the local server with the command:
 $ npm run dev
 ```
 
-and open http://localhost:3000 to see this app.
+and open http://localhost:3000 to see this website.
 
 ## 🔧 Tech/framework used
 
