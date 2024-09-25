@@ -10,7 +10,6 @@ module.exports = {
   ],
   plugins: ['simple-import-sort', 'prettier', '@typescript-eslint'],
   rules: {
-    "no-console": "off",
     'prettier/prettier': [
       'error',
       {
