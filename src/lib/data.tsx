@@ -57,13 +57,9 @@ export const projectsData = [
   {
     image: '/projects/two-good.jpeg',
     title: 'Two-Good',
-    description: 'Developed a responsive and visually appealing web-based website using HTML, CSS and JavaScript',
-    technologies: [
-      'React',
-      'Styled-components',
-      'JavaScript',
-      'Firebase',
-    ],
+    description:
+      'Developed a responsive and visually appealing web-based website using HTML, CSS and JavaScript',
+    technologies: ['React', 'Styled-components', 'JavaScript', 'Firebase'],
     links: {
       preview: 'https://jairock007.github.io/two-good/',
       github: 'https://github.com/jairock007/two-good',
@@ -76,13 +72,15 @@ export const experiencesData = [
   {
     title: 'Internship at WEB-BOX',
     location: 'Tarnobrzeg, NY',
-    description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.',
+    description:
+      'Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.',
     date: '2023',
   },
   {
     title: 'Internship at Chop-Chop',
     location: 'Remote',
-    description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.',
+    description:
+      'Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.',
     date: '2024',
   },
   {
@@ -97,14 +95,11 @@ export const experiencesData = [
 export const skillsData = [
   { icon: <Icons.html className="size-12" /> },
   { icon: <Icons.css className="size-12" /> },
-  { icon: <Icons.sass className="size-12" /> },
   { icon: <Icons.tailwind className="size-12" /> },
   { icon: <Icons.javascript className="size-12" /> },
   { icon: <Icons.typescript className="size-12" /> },
   { icon: <Icons.react className="size-12" /> },
   { icon: <Icons.redux className="size-12" /> },
   { icon: <Icons.nextjs className="size-12" /> },
-  { icon: <Icons.nestjs className="size-12" /> },
-  { icon: <Icons.prisma className="size-12" /> },
-  { icon: <Icons.docker className="size-12" /> },
+  { icon: <Icons.github className="size-12" /> },
 ] as const;

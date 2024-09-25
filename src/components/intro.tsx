@@ -44,8 +44,8 @@ export const Intro = () => {
         }}
         className="text-muted-foreground max-w-lg"
       >
-        Hello, I&apos;m Jitendra Singh. I am front-end developer from Bhopal. I enjoy
-        building sites. My focus is React (Next.js).
+        Hello, I&apos;m Jitendra Singh. I am front-end developer from Bhopal. I
+        enjoy building sites. My focus is React (Next.js).
       </motion.p>
       <motion.div
         initial={{ opacity: 0, y: 100 }}

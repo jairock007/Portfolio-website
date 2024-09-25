@@ -23,14 +23,14 @@ export const About = () => {
         <p className="mb-4">
           I&apos;m Jitendra Singh, I&apos;m a front-end developer from Bhopal.
           I&apos;ve been learning programming for over 3 years. After I started
-          collage, I decided to pursue my passion for programming. My
-          favorite part of programming is the problem-solving aspect. I love the
-          feeling of finally figuring out a solution to a problem. I&apos;ve had
-          the opportunity to work on several exciting projects during my
-          learning journey, ranging from personal projects to collaborative
-          ventures. My core stack is React, Next.js, TypeScript, and Tailwind
-          CSS. I am also familiar with Nest.js and Prisma. I am always looking
-          to learn new technologies.
+          collage, I decided to pursue my passion for programming. My favorite
+          part of programming is the problem-solving aspect. I love the feeling
+          of finally figuring out a solution to a problem. I&apos;ve had the
+          opportunity to work on several exciting projects during my learning
+          journey, ranging from personal projects to collaborative ventures. My
+          core stack is React, Next.js, TypeScript, and Tailwind CSS. I am also
+          familiar with Nest.js and Prisma. I am always looking to learn new
+          technologies.
         </p>
         <p>
           I&apos;m open to Job opportunities where I can contribute, learn and
