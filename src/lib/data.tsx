@@ -38,7 +38,7 @@ export const projectsData = [
   },
   {
     image: '/projects/school-logo.png',
-    title: 'My School',
+    title: 'My E-commerce website',
     description: 'My School website, packed with useful features.',
     technologies: [
       'React.js',
@@ -49,7 +49,7 @@ export const projectsData = [
       'react-redux',
     ],
     links: {
-      preview: 'https://my-school-eta.vercel.app/',
+      preview: 'https://e-commerce-website-ten-delta.vercel.app/',
       github: 'https://github.com/jairock007/MySchool',
       githubApi: 'https://api.github.com/repos/jairock007/MySchool',
     },
